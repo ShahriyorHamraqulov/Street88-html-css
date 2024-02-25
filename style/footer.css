@@ -1,0 +1,14 @@
+@import url(fonts.css);
+
+.footer {
+  background: #1A3406;
+  padding: 19px 0;
+}
+
+.footer-title {
+  color: #FFF;
+  text-align: center;
+  font-family: 'RR';
+  font-size: 16px;
+  line-height: 19px;
+}

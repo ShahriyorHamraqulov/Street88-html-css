@@ -1,0 +1,73 @@
+@import url(../fonts.css);
+
+.main-content__img {
+  margin-bottom: 30px;
+}
+
+.main-content__text {
+  color: #FFF;
+  text-align: justify;
+  font-family: 'RlB';
+  font-size: 18px;
+  line-height: 25px; /* 138.889% */
+  margin-bottom: 30px;
+}
+
+.main-center__title {
+  color: #69CF17;
+  text-align: center;
+  font-family: 'RlB';
+  font-size: 50px;
+  line-height: 40px; /* 80% */
+  background: #FFF;
+  padding: 20px 0;
+}
+
+.main-center__map {
+  width: 100%;
+}
+
+.main-bottom {
+  padding-top: 30px;
+  background: linear-gradient(180deg, #000 0%, rgba(105, 207, 23, 0.50) 100%);
+  height: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-bottom__space {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-bottom__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-bottom__tel {
+  color: #FFF;
+  text-align: right;
+  font-family: 'RB';
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.main-bottom__list {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  text-align: center;
+  margin-top: 61px;
+}
+
+.main-bottom__link {
+  color: #FFF;
+  text-align: center; 
+  font-family: 'RR';
+  font-size: 20px;
+  line-height: 23px;
+}
